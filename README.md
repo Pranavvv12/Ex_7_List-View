@@ -23,8 +23,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 /*
 Program to print the list of item.
-Developed by: JEEVANSURYA K
-Registeration Number : 212222040061
+Developed by: PRANAV KUMAR M
+Registeration Number : 212222040119
 */
 
 ## ACTIVITY_MAIN.XML
